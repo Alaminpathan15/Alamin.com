@@ -1,1 +1,1 @@
-# Alamin.com
+# Alamin
